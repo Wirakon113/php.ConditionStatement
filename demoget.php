@@ -6,6 +6,13 @@
     <title>Document</title>
 </head>
 <body>
+
+    <h2>โปรดกรอกข้อมูลของท่าน</h2>
+    <form action="test.php" method="get">
+        กรอกชื่อวิชาจาก : <input type="text" name="subject"><br>
+        เว็บไซต์ที่เเนะนำ : <input type="text" name="web"><br>
+        <input type="submit">
+    </form>
     
 </body>
 </html>
